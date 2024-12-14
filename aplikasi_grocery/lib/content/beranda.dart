@@ -29,7 +29,7 @@ class BerandaSayur extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Welcome, Andreas!'),
+        title: Text('Welcome, Andreass!'),
         actions: [
           IconButton(
             icon: Icon(Icons.shopping_cart),
